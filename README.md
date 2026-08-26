@@ -1,1 +1,3 @@
-"# intro_python" 
+# intro_python
+
+## Erlend Bergeng
